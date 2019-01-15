@@ -478,7 +478,7 @@ export const STATIC_NETWORKS_INITIAL_STATE: types.ConfigStaticNetworksState = {
 
   GO: {
     id: 'GO',
-    name: 'GO',
+    name: 'GoChain',
     unit: 'GO',
     chainId: 60,
     isCustom: false,
@@ -504,7 +504,7 @@ export const STATIC_NETWORKS_INITIAL_STATE: types.ConfigStaticNetworksState = {
 
   GO_TESTNET: {
     id: 'GO_TESTNET',
-    name: 'GO',
+    name: 'GoChain Testnet',
     unit: 'GO',
     chainId: 31337,
     isCustom: false,
